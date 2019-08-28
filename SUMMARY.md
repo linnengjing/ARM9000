@@ -9,6 +9,7 @@
   * [2.1 CNT文件编辑说明](er-hua-xing-guan-li/2.1-cnt-wen-jian-bian-ji-shuo-ming.md)
   * [2.2 PAT文件编辑说明](er-hua-xing-guan-li/2.2-pat-wen-jian-bian-ji-shuo-ming.md)
   * [2.3 花型裁剪](er-hua-xing-guan-li/2.3-hua-xing-cai-jian-1.md)
+  * [2.4 退出花型管理](er-hua-xing-guan-li/2.4-tui-chu-hua-xing-guan-li.md)
 * [三、系统参数](san-xi-tong-can-shu/README.md)
   * [3.1 系统参数设置说明](san-xi-tong-can-shu/3.1-xi-tong-can-shu-she-zhi-shuo-ming.md)
   * [3.2 系统参数功能按钮](san-xi-tong-can-shu/3.2-xi-tong-can-shu-gong-neng-an-niu.md)
